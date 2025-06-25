@@ -7,7 +7,14 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: rgb(255, 247, 247); /* Espaço corrigido */
 }
-
+.imagemqueimada{
+    width: 150px;
+    height: 150px;
+}
+.imagemlixao{
+    width: 150px;
+    height: 150px;
+}
 .menu {
     display: flex;
     align-items: center;
